@@ -63,7 +63,6 @@ This project focuses on analyzing and clustering Netflix Movies and TV Shows usi
 📁 Netflix-Movies-TV-Shows-Clustering
 │── 📄 NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING.ipynb
 │── 📄 README.md
-│── 📄 dataset.csv (if included)
 ```
 
 ---
